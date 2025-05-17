@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto" sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
 }
@@ -24,7 +24,7 @@ button {
 /* HEADER */
 
 .header-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -79,7 +79,7 @@ button {
 }
 
 .hero-btn {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   background-color: #4d5ae5;
   font-size: 16px;
@@ -141,6 +141,7 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  background-color: #fff;
 }
 
 .team-text-role {
@@ -196,6 +197,7 @@ button {
 }
 
 .footer-logo-link {
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -205,7 +207,7 @@ button {
 }
 
 .footer-logo-studio {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
 .footer-text {

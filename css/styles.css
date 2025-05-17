@@ -45,6 +45,10 @@ button {
   color: #2e2f42;
 }
 
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
 .header-menu-link:hover {
   color: #404bbf;
 }
@@ -55,6 +59,10 @@ button {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.header-address-link:focus {
+  color: #404bbf;
 }
 
 .header-address-link:hover {
@@ -88,6 +96,9 @@ button {
   color: #fff;
 }
 
+.hero-btn:focus {
+  background-color: #404bbf;
+}
 .hero-btn:hover {
   background-color: #404bbf;
 }
@@ -122,6 +133,10 @@ button {
 
 .team {
   background-color: #f4f4fd;
+}
+
+.team-item {
+  background-color: #fff;
 }
 
 .team-title {
